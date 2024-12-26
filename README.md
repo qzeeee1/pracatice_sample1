@@ -1,7 +1,7 @@
-|[<img src="https://avatars.githubusercontent.com/u/93127663?v=4" width="150" height="150"/>](https://github.com/red-dev-Mark)
-|[<img src="https://avatars.githubusercontent.com/u/27764950?v=4" width="150" height="150"/>](https://github.com/clara-shin)
-|[<img src="https://avatars.githubusercontent.com/u/170402797?v=4" width="150" height="150"/>](https://github.com/dyeongg)
-|[<img src="https://avatars.githubusercontent.com/u/170427166?v=4" width="150" height="150"/>](https://github.com/nanafromjeju)
+|[<img src="https://avatars.githubusercontent.com/u/93127663?v=4" width="150" height="150"/>](https://github.com/red-dev-Mark)|
+|[<img src="https://avatars.githubusercontent.com/u/27764950?v=4" width="150" height="150"/>](https://github.com/clara-shin)|
+|[<img src="https://avatars.githubusercontent.com/u/170402797?v=4" width="150" height="150"/>](https://github.com/dyeongg)|
+|[<img src="https://avatars.githubusercontent.com/u/170427166?v=4" width="150" height="150"/>](https://github.com/nanafromjeju)|
 |[<img src="https://avatars.githubusercontent.com/u/70564622?v=4" width="150" height="150"/>](https://github.com/sbs1253)|
 |:-:|:-:|:-:|:-:|:-:|
 |**총괄** 😎권혁준<br/>[@red-dev-Mark](https://github.com/red-dev-Mark)
